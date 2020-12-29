@@ -9,7 +9,6 @@ public class KeyPressed : MonoBehaviour
     public bool keyCanBeHitAgain = false;
     private float originalYPosition;
     private TextMeshPro playerTextOutput;
-
     
     // Start is called before the first frame update
     void Start()
